@@ -8,7 +8,8 @@ Site feito em html e css para o projeto final da disciplina de HTML/CSS da Pós-
 1. Estrutura Semântica Rigorosa: Construir o layout completo utilizando apenas tags semânticas (Módulo 01), garantindo que a estrutura seja compreensível para motores de busca e leitores de tela.
 
 Primeiro fiz um esboço para determinar quais seriam as tags necessárias, depois carreguei um projeto já feito durante os módulos da disciplina que coíncidia com as exigências do projeto e alterei o que era necessário.
-TODO: colocar o esboço aqui.
+
+![Esboço](/assets/esboco.png)
 
 2. Sistema de Design com Variáveis: Implementar um esquema de cores e tipografia centralizado em variáveis CSS, permitindo a troca de identidade visual do seu tema de forma global e organizada (Módulo 02).
 
